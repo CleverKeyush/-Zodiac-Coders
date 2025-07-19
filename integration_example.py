@@ -10,7 +10,7 @@ import requests
 import json
 
 # Your current configuration
-GEMINI_API_KEY = "AIzaSyDWdj4Jgw_Ewz2cWkx1CU6MwGP3GFwj1qI"
+GEMINI_API_KEY = "Enter the Gemini Api Key"
 PINATA_API_KEY = "5c3e3eb6db3ae1810e3e"
 PINATA_SECRET_API_KEY = "ydc398e7d54a0d89f4b9be0ec364d09df7c39206b4438d0e1b8b6746fc04fc87b"
 
